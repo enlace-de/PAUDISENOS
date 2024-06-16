@@ -1,0 +1,13 @@
+{
+    "name": "PAÜ Diseños",
+    "short_name": "PAÜ",
+    "icons": [
+      {
+        "src": "./assets/img/logo.jpg",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "https://enlace-de.github.io/pruebas_PA-/",
+    "display": "standalone"
+  }
